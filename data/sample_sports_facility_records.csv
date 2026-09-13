@@ -1,0 +1,13 @@
+facility_id,facility_name,zone,sport,capacity_slots,weekly_demand,waitlist_size,accessibility_score,avg_travel_min,maintenance_days_month,weather_risk_index,booking_cancel_rate_pct,facility_condition_score,booking_reliability_score,maintenance_days_ahead,peak_travel_min,facility_status,bookings_last_month,unique_users_last_month,youth_demand_index,senior_demand_index,adaptive_sport_demand_index,recent_maintenance_events
+SF001,Shivaji Sports Complex,Kothrud,Football,18,42,3,0.82,22,8,12,4,0.86,0.92,4,18,Good,12,16,7,9,6,1
+SF002,Balewadi Community Courts,Balewadi,Basketball,10,28,2,0.94,18,5,8,3,0.92,0.96,2,14,Good,9,12,5,6,4,0
+SF003,Yerawada Indoor Hall,Yerawada,Badminton,14,36,4,0.78,30,11,15,6,0.68,0.88,5,27,Fair,17,19,8,11,7,2
+SF004,Aundh Sports Ground,Aundh,Football,16,51,5,0.73,35,12,18,8,0.74,0.84,7,21,Fair,20,24,10,14,9,3
+SF005,Hadapsar Multi-Sport Arena,Hadapsar,Cricket,12,45,3,0.88,26,7,10,5,0.79,0.91,6,24,Good,15,20,7,10,6,1
+SF006,Viman Nagar Recreation Hub,Viman Nagar,Table Tennis,8,22,1,0.97,12,3,6,2,0.95,0.98,2,11,Excellent,6,9,3,5,2,0
+SF007,Camp Sports Pavilion,Camp,Volleyball,11,31,2,0.84,21,6,9,4,0.81,0.9,4,17,Good,11,15,6,8,5,1
+SF008,Warje Athletics Park,Warje,Athletics,20,39,4,0.76,32,10,14,7,0.72,0.86,8,19,Fair,18,22,9,12,8,2
+SF009,Pashan Community Turf,Pashan,Football,14,47,3,0.8,29,9,13,5,0.83,0.89,5,20,Good,16,21,8,10,7,1
+SF010,Kondhwa Sports Centre,Kondhwa,Badminton,13,34,3,0.69,37,13,17,8,0.64,0.82,7,29,Fair,21,25,11,15,9,3
+SF011,Baner Active Zone,Baner,Basketball,9,40,2,0.91,20,5,7,3,0.9,0.94,3,15,Excellent,10,14,5,7,4,0
+SF012,Sinhagad Road Sports Hub,Sinhagad Road,Cricket,15,44,4,0.75,34,11,16,7,0.7,0.85,6,23,Fair,19,23,9,13,8,2
